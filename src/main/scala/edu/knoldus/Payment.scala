@@ -5,11 +5,14 @@ import org.apache.log4j.Logger
 abstract class PaymentMode {
 
   case class Paytm() extends PaymentMode
-  case class Freecharge() extends PaymentMode
-  case class NetBanking() extends PaymentMode
-  case class CardPayment() extends PaymentMode
-  case class Cash() extends PaymentMode
 
+  case class Freecharge() extends PaymentMode
+
+  case class NetBanking() extends PaymentMode
+
+  case class CardPayment() extends PaymentMode
+
+  case class Cash() extends PaymentMode
 }
 
 object Calculator extends PaymentMode with App {
