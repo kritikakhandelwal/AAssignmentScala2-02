@@ -3,35 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7af459-baf8-4072-999d-f0b5aad094a3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/edu/knoldus/Payment.scala" afterPath="$PROJECT_DIR$/src/main/scala/edu/knoldus/Payment.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/edu/knoldus/Person1.scala" afterPath="$PROJECT_DIR$/src/main/scala/edu/knoldus/Person1.scala" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Calculator$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Calculator$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Calculator$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Calculator$delayedInit$body.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Calculator.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Calculator.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$CardPayment$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$CardPayment$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$CardPayment.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$CardPayment.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Cash$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Cash$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Cash.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Cash.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Freecharge$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Freecharge$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Freecharge.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Freecharge.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Paytm$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Paytm$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Paytm.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode$Paytm.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/PaymentMode.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person$Gamer$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person$Gamer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person$Trainer$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person$Trainer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Gamer$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Gamer$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Gamer.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Gamer.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Trainer$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Trainer$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Trainer.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1$Trainer.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/Person1.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/UsingPerson$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/UsingPerson$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/UsingPerson$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/UsingPerson$delayedInit$body.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/UsingPerson.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/edu/knoldus/UsingPerson.class" />
-      <change beforePath="$PROJECT_DIR$/target/scalastyle-result.xml" afterPath="$PROJECT_DIR$/target/scalastyle-result.xml" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/scalastyle/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/scalastyle/$global/streams/out" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person1.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person1.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/edu/knoldus/Person1.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -662,6 +643,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
