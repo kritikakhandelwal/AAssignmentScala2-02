@@ -6,7 +6,7 @@ abstract class Person1 {
   def isWinner(num: Int): String = {
 
     val r = scala.util.Random
-    val digit = 1 + r.nextInt(6)
+    val digit = Constants.ONE + r.nextInt(Constants.SIX)
     digit match {
       case 1 | 6 => if (num == 0) "Winner" else isWinner(num - 1)
       case _ => "Looser"
@@ -24,7 +24,7 @@ abstract class Person1 {
       case Trainer() => {
 
         val strength = scala.util.Random
-        s"Total Attendance =${strength.nextInt(51)}"
+        s"Total Attendance =${strength.nextInt(Constants.FIFTYONE)}"
 
       }
       case Gamer(count: Int) => {
